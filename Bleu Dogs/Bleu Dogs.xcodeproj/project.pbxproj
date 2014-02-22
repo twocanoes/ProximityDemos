@@ -39,7 +39,6 @@
 		AAEBF2EC1810FC6B00C3DC59 /* BleuSampleTest.m in Sources */ = {isa = PBXBuildFile; fileRef = AAEBF2EA1810FC6B00C3DC59 /* BleuSampleTest.m */; };
 		AAEBF2F018116B1200C3DC59 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = AAEBF2EE18116B0E00C3DC59 /* InfoPlist.strings */; };
 		AAF3213818ABCA2700E868F0 /* libbleu.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 76692F5418A5BF730013A28B /* libbleu.a */; };
-		AAF3213A18ABCD2700E868F0 /* libTestFlight.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AAF3213918ABCD2700E868F0 /* libTestFlight.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -95,7 +94,6 @@
 		AAEBF2E91810FC6B00C3DC59 /* BleuSampleTests-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "BleuSampleTests-Info.plist"; sourceTree = "<group>"; };
 		AAEBF2EA1810FC6B00C3DC59 /* BleuSampleTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BleuSampleTest.m; sourceTree = "<group>"; };
 		AAEBF2EF18116B0E00C3DC59 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		AAF3213918ABCD2700E868F0 /* libTestFlight.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libTestFlight.a; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,7 +104,6 @@
 				76692F6318A5C2510013A28B /* CoreBluetooth.framework in Frameworks */,
 				76D24B8B17FF924600DFBC5A /* Foundation.framework in Frameworks */,
 				76D24B8D17FF924600DFBC5A /* CoreGraphics.framework in Frameworks */,
-				AAF3213A18ABCD2700E868F0 /* libTestFlight.a in Frameworks */,
 				76D24B8F17FF924600DFBC5A /* UIKit.framework in Frameworks */,
 				AAF3213818ABCA2700E868F0 /* libbleu.a in Frameworks */,
 			);
@@ -147,7 +144,6 @@
 		76D24B8917FF924600DFBC5A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				AAF3213918ABCD2700E868F0 /* libTestFlight.a */,
 				76692F6218A5C2510013A28B /* CoreBluetooth.framework */,
 				76692F5418A5BF730013A28B /* libbleu.a */,
 				76D24B8A17FF924600DFBC5A /* Foundation.framework */,
