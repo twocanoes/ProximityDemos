@@ -9,3 +9,5 @@ Bleu Dogs
 Bleu dogs is a demo app that shows iBeacons in a retail settings.  The app has 4 different regions tab views: Welcome, Menu, Pay, and Condiments.  Each view will be shown automatically when in the region associated with the iBeacon is entered.  You can easily associate each view with a Bleu Station by doing a two-finger swipe on the Welcome view.
 
 Follow the [tutorial](http://twocanoes.com/bleu-station/support/native-app-beacon-demo) to learn more.
+
+![Screenshot](http://tc-static-staging.s3.amazonaws.com/images/asset_058/App-overview-sm.png)
